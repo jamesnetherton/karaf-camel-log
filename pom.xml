@@ -31,9 +31,9 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
     <!-- configure the versions you want to use here -->
-    <camel.version>2.19.1</camel.version>
-    <karaf.version>4.2.0.fuse-000090</karaf.version>
-    <fabric8.version>2.3.0.fuse-000030</fabric8.version>
+    <camel.version>2.21.0.fuse-000019</camel.version>
+    <karaf.version>4.2.0.fuse-000159</karaf.version>
+    <fabric8.version>2.3.7.fuse-000009</fabric8.version>
 
     <maven-compiler-plugin.version>3.6.0</maven-compiler-plugin.version>
     <maven-surefire-plugin.version>2.19.1</maven-surefire-plugin.version>
