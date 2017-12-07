@@ -67,8 +67,13 @@
                     </releases>
                 </repository>
 
-
-
+                <repository>
+                    <id>Early Access Repository</id>
+                    <url>https://origin-repository.jboss.org/nexus/content/groups/ea</url>
+                    <snapshots>
+                        <enabled>false</enabled>
+                    </snapshots>
+                </repository>
 
             </repositories>
 
@@ -115,8 +120,13 @@
                     </releases>
                 </pluginRepository>
 
-
-
+                <pluginRepository>
+                    <id>Early Access Repository</id>
+                    <url>https://origin-repository.jboss.org/nexus/content/groups/ea</url>
+                    <snapshots>
+                        <enabled>false</enabled>
+                    </snapshots>
+                </pluginRepository>
 
             </pluginRepositories>
         </profile>
