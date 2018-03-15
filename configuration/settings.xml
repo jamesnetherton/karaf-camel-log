@@ -122,6 +122,11 @@
             <updatePolicy>never</updatePolicy>
           </releases>
         </repository>
+       <repository>
+          <id>jb-amq7</id>
+          <name>JB-AMQ7</name>
+          <url>http://download-node-02.eng.bos.redhat.com/brewroot/repos/jb-amq-7-build/latest/maven</url>
+        </repository>
  
       </repositories>
 
